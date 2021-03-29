@@ -1,0 +1,1 @@
+Milk Manager (ver 1.0) is an app aiming to help milk farm owners to regulate the milk weight and other properties.

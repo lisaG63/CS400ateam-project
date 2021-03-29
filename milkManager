@@ -1,0 +1,4 @@
+#!/bin/bash
+#set -x
+
+/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/bin/java --module-path /Users/wenxiyang/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml -Dfile.encoding=UTF-8 -cp .:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx-swt.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.base.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.controls.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.web.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.swing.jar:/Users/wenxiyang/javafx-sdk-11.0.2/lib/javafx.media.jar -jar executable.jar
